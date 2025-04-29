@@ -4,7 +4,7 @@
 
 
 example:
-<div class="drop-down">
+<!-- <div class="drop-down">
     <button class="toggle">drop-down</button>
     <div class="drop-down-container">
         <div class="drop-down-content">
@@ -17,4 +17,4 @@ example:
             <button>stuff</button>
         </div>
     </div>
-</div> 
+</div>  -->
