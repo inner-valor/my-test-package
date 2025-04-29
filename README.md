@@ -4,17 +4,17 @@
 
 
 example:
-<!-- <div class="drop-down">
-    <button class="toggle">drop-down</button>
-    <div class="drop-down-container">
-        <div class="drop-down-content">
-            <button>stuff</button>
-            <button>stuff</button>
-            <button>stuff</button>
-            <button>stuff</button>
-            <button>stuff</button>
-            <button>stuff</button>
-            <button>stuff</button>
-        </div>
-    </div>
-</div>  -->
+&lt;div class="drop-down">
+    &lt;button class="toggle">drop-down</button>
+    &lt;div class="drop-down-container">
+        &lt;div class="drop-down-content">
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+            &lt;button>stuff</button>
+        &lt;/div>
+    &lt;/div>
+&lt;/div> 
